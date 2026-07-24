@@ -1,0 +1,188 @@
+{
+  "Scene_Map": {
+    "WindowLayer": {
+      "0,Window_Message": {
+        "x": 294,
+        "y": 552,
+        "width": 1280,
+        "height": 168,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": "",
+        "_customPadding": "24",
+        "_customLineHeight": "30",
+        "_customBackOpacity": "200",
+        "_customBackFileName": "",
+        "_customFontFace": "yasashisa"
+      },
+      "5,Window_Help": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 110,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 30,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "4,Window_EventItem": {
+        "x": 0,
+        "y": 110,
+        "width": 1024,
+        "height": 156,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 30,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    },
+    "Scene_Map": {
+      "2,Sprite_GalvMsgBg": {
+        "x": 0,
+        "y": 236.47999999999996
+      },
+      "5,Window_MapHpGauge": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": "",
+        "_customPadding": 0,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": "huifont"
+      }
+    }
+  },
+  "Scene_Item": {
+    "WindowLayer": {
+      "1,Window_ItemCategory": {
+        "x": 64,
+        "y": 175,
+        "width": 900,
+        "height": 66,
+        "opacity": 0,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 30,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "2,Window_ItemList": {
+        "x": 60,
+        "y": 259,
+        "width": 900,
+        "height": 400,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 30,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "0,Window_Help": {
+        "x": 60,
+        "y": 25,
+        "width": 900,
+        "height": 150,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 30,
+        "_customBackOpacity": "255",
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  },
+  "Scene_Shop": {
+    "WindowLayer": {
+      "0,Window_Help": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 110,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 30,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "5,Window_ShopStatus": {
+        "x": 456,
+        "y": 178,
+        "width": 568,
+        "height": 590,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 30,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "6,Window_ShopBuy": {
+        "x": 0,
+        "y": 178,
+        "width": 456,
+        "height": 590,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 30,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "2,Window_ShopCommand": {
+        "x": 0,
+        "y": 112,
+        "width": 784,
+        "height": 66,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 30,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "1,Window_Gold": {
+        "x": 784,
+        "y": 110,
+        "width": 240,
+        "height": 66,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 28,
+        "_customPadding": 18,
+        "_customLineHeight": 30,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  }
+}
